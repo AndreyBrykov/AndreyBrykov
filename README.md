@@ -1,4 +1,7 @@
-### Hi there, I'm Andrey Brykov 👋
+<h1 align="center">Hi there, I'm Andrey Brykov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm just getting started</h3>
+
 
 🌱 I’m currently learning DA, DS
 

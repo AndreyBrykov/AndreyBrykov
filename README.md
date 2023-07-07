@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Andrey Brykov 👋
+
+🌱 I’m currently learning DA, DS
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=data+analytics+/+big+data+/...)](https://git.io/typing-svg)
 
 <!--
 **AndreyBrykov/AndreyBrykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DA, DS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

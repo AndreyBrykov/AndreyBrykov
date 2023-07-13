@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=data+analytics+/+big+data+/...)](https://git.io/typing-svg)
 
+<img src="https://github.com/AndreyBrykov/AndreyBrykov/blob/main/in.png" alt="альтернативный текст">
+
 <!--
 **AndreyBrykov/AndreyBrykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

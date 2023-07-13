@@ -7,7 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=data+analytics+/+big+data+/...)](https://git.io/typing-svg)
 
-<img src="https://github.com/AndreyBrykov/AndreyBrykov/blob/main/in1.png" alt="альтернативный текст">
+< a href="https://www.linkedin.com/in/andrey-bravo" ><img src="https://github.com/AndreyBrykov/AndreyBrykov/blob/main/in1.png"></a>
+< a href="https://t.me/AndreyBrava" ><img src="https://github.com/AndreyBrykov/AndreyBrykov/blob/main/te.png"></a>
 
 <!--
 **AndreyBrykov/AndreyBrykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

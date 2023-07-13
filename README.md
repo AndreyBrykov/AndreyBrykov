@@ -3,7 +3,7 @@
 <h3 align="center">I'm just getting started</h3>
 
 
-🌱 I’m currently learning DA, DS
+🌱 I’m currently learning DA
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=data+analytics+/+big+data+/...)](https://git.io/typing-svg)
 
